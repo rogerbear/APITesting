@@ -1,0 +1,10 @@
+2024-03-13 09:09:13,080 INFO [root] [test_shujian.py (test_shujian:17] - 状态码为: 200
+2024-03-13 09:09:13,082 INFO [root] [test_shujian.py (test_shujian:18] - <Response [200]>
+2024-03-13 09:09:37,827 INFO [root] [test_shujian.py (test_shujian:17] - 状态码为: 200
+2024-03-13 09:09:37,828 INFO [root] [test_shujian.py (test_shujian:18] - <Response [200]>
+2024-03-13 09:09:45,548 INFO [root] [test_shujian.py (test_shujian:17] - 状态码为: 200
+2024-03-13 09:09:45,548 INFO [root] [test_shujian.py (test_shujian:18] - <Response [200]>
+2024-03-13 09:12:02,244 INFO [root] [test_shujian.py (test_shujian:17] - 状态码为: 200
+2024-03-13 09:12:02,245 INFO [root] [test_shujian.py (test_shujian:18] - <Response [200]>
+2024-03-13 09:14:20,896 INFO [root] [test_shujian.py (test_shujian:17] - 状态码为: 200
+2024-03-13 09:14:20,897 INFO [root] [test_shujian.py (test_shujian:18] - <Response [200]>
